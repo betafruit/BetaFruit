@@ -1,10 +1,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=betafruit&show_icons=true&count_private=true&hide_border=true&theme=transparent" style="width: 50%" align="right"/>
 <div>
   <h3>Hi, I'm BetaFruit. I do things.</h3>
-  Here are some of the cool ones:<br/>
+  Here are some of the cool ones:
+  <br/>
   🎵 <a href="https://routinehub.co/shortcut/19225">Return Playlist Artwork Montage - iOS shortcut</a> 📱<br/>
   🎮 <a href="https://github.com/betafruit/menubartetris">Tetris in your MacOS menu bar</a> 💻<br/>
   🚀 <a href="https://betafruit.itch.io/astrobuilder">AstroBuilder - "Raft meets Beseige in space"</a> 🌌<br/>
+  <br/>
 </div>
 
 <table width="100%">
