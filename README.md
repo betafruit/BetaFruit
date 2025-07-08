@@ -3,7 +3,7 @@
   <h3>Hi, I'm BetaFruit. I do things.</h3>
   Here are some of the cool ones:
   <br/>
-  🎮 <a href="https://github.com/betafruit/iOSBatteryIndicatorForMacOS">iOS Battery Indicator for MacOS</a> 💻<br/>
+  🔋 <a href="https://github.com/betafruit/iOSBatteryIndicatorForMacOS">iOS Battery Indicator for MacOS</a> 💻<br/>
   🎵 <a href="https://routinehub.co/shortcut/19225">Return Playlist Artwork Montage - iOS shortcut</a> 📱<br/>
   🎮 <a href="https://github.com/betafruit/MenuBarTetris">Tetris in your MacOS menu bar</a> 💻<br/>
   🚀 <a href="https://betafruit.itch.io/astrobuilder">AstroBuilder - "Raft meets Beseige in space"</a> 🌌<br/>
